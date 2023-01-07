@@ -1,4 +1,4 @@
-<h1 align="center"> SHARP CODERS | Projeto ByteBanka C# - 2022/2023 </h1>
+<h1 align="center"> SHARP CODERS | Projeto ByteBank C# - 2022/2023 </h1>
 
 <p align="center">
 Formação Desenvolvedor C#, promovido pela Imã Learning Place | Sharp Coders.
@@ -41,7 +41,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## #️⃣ = ❎ e 0️⃣ Projeto
 
-Este é o código principal de um sistema de gerenciamento de contas bancárias, escrito em C#. O código inclui uma função "InitialMenu" que exibe um menu principal para o usuário, com opções de inserir um novo usuário, deletar um usuário, listar todas as contas registradas, exibir os detalhes de um usuário, exibir o valor total armazenado no banco e manipular uma conta específica.
+Este é o código principal que simula um sistema de gerenciamento de contas bancárias, escrito em C#. O código inclui uma função "InitialMenu" que exibe um menu principal para o usuário, com opções de inserir um novo usuário, deletar um usuário, listar todas as contas registradas, exibir os detalhes de um usuário, exibir o valor total armazenado no banco e manipular uma conta específica.
 
 Existe também uma função "Main" que é o ponto de entrada para o programa. Dentro desta função, há quatro listas: "cpfs", "names", "passwords" e "balances". Estas listas armazenam os respectivos dados de cada conta bancária: CPF, nome, senha e saldo.
 

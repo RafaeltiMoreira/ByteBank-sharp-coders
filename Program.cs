@@ -13,10 +13,12 @@ namespace BankSystem {
             Console.WriteLine(@"
 ╔══════════════════════════════╗
 ║    Sejam bem-vindos (as)     ║
-║   ByteBank - SHARP CODERS    ║
+║   ByteBank - SHARP CODERS    ║ 
+║    O mundo nas suas mãos.    ║ 
 ╚══════════════════════════════╝
             ");
-            Console.WriteLine("ByteBank, o mundo nas suas mãos.");
+            
+            Console.WriteLine();
             Console.WriteLine("Digite uma das opções abaixo de 0 a 6:");
             Console.WriteLine();
             Console.WriteLine("1 - Inserir novo usuário");

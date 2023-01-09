@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - C# focado em Lógica de Programação e Algoritmos
 - Agradecimentos pelas dicas e compreensão ao time Imã, Fran Coimbra - [![Linkedin Badge](https://img.shields.io/badge/-FranCoimbra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francione-coimbra-b16a7311a/)](https://www.linkedin.com/in/francione-coimbra-b16a7311a/) e Julio Vieira - [![Linkedin Badge](https://img.shields.io/badge/-JulioVieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliovieiraon/)](https://www.linkedin.com/in/juliovieiraon/), por último e não menos importante, os fundamentais e caros colegas que estão sempre disponíveis nas soluções dos problemas e dúvidas no código.
 
-## #️⃣ = ❎ e 0️⃣ Projeto
+## #️⃣ Projeto
 
 Este é o código principal que simula um sistema de gerenciamento de contas bancárias, escrito em C#. O código inclui uma função "InitialMenu" que exibe um menu principal para o usuário, com opções de inserir um novo usuário, deletar um usuário, listar todas as contas registradas, exibir os detalhes de um usuário, exibir o valor total armazenado no banco e manipular uma conta específica.
 

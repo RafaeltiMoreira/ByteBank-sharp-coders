@@ -92,7 +92,7 @@ namespace ByteBank.Entities {
                                     balances[logInIndex] -= sacarQuantia;
                                     Console.ForegroundColor = ConsoleColor.Green;
                                     Console.WriteLine();
-                                    Console.WriteLine($"Saque de R$ {sacarQuantia:C} realizado com sucesso! Seu novo saldo é de R$ {balances[logInIndex]:C}");
+                                    Console.WriteLine($"Saque de {sacarQuantia:C} realizado com sucesso! Seu novo saldo é de {balances[logInIndex]:C}");
                                     Console.ResetColor();
                                 }
                             }
